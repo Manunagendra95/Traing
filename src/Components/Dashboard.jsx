@@ -18,6 +18,7 @@ function Dashboard(){
     return(
         <div>
             <h1>Dashboard</h1>
+            <h1>This is the second change i have made in My code</h1>
             <p>Welcome to Dashboard</p>
             <button onClick={handleLogout}>Logout</button>
             <br/>
